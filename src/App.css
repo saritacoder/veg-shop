@@ -1,0 +1,32 @@
+.app {
+  margin: 20px;
+  text-align: center; /* Center the title "VEG SHOP" */
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.vegetable-item {
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: center; /* Center the entire list */
+  align-items: center;
+}
+
+.vegetable-item span {
+  margin-right: 5px;
+}
+
+.vegetable-item input {
+  margin-left: 5px;
+}
+
+button {
+  margin-left: 5px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center; /* Ensure the title "VEG SHOP" is centered */
+}
